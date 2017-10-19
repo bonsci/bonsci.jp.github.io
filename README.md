@@ -1,8 +1,3 @@
-Demo: [http://webjeda.com/cards](http://webjeda.com/cards)
+BonSciプロジェクト（主に投票クラスタリングを使用）のギャラリーページです。
 
-## Installation
-* Fork the repository
-* Go to settings and set Github Pages source as master.
-* Your new site should be ready.
-
-For more themes visit - [https://jekyll-themes.com](https://jekyll-themes.com)
+Gallery page of the project BonSci (in which we use voteclustering).
