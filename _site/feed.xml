@@ -4,10 +4,10 @@
     <title>BonSci</title>
     <description>BonSci is a set of frameworks for gathering and summarizing human intuitions and opinions.
 </description>
-    <link>http://localhost:4000/cards/</link>
-    <atom:link href="http://localhost:4000/cards/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 19 Oct 2017 23:40:28 +0900</pubDate>
-    <lastBuildDate>Thu, 19 Oct 2017 23:40:28 +0900</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 20 Oct 2017 00:42:12 +0900</pubDate>
+    <lastBuildDate>Fri, 20 Oct 2017 00:42:12 +0900</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -42,7 +42,7 @@
   &lt;li&gt;“特に体調不良がないため”&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;/cards/images/ChibaMedicalCheckup/Q2-3_Q2-1_true=blue_false_red_NULL=gray_Jul2017.png&quot; alt=&quot;Q2-3&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/ChibaMedicalCheckup/Q2-3_Q2-1_true=blue_false_red_NULL=gray_Jul2017.png&quot; alt=&quot;Q2-3&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;q3-健康診断について&quot;&gt;Q3. 健康診断について&lt;/h3&gt;
 &lt;div id=&quot;donutchart_2&quot; style=&quot;width: 450px; height: 250px;&quot;&gt;&lt;/div&gt;
@@ -60,7 +60,7 @@
   &lt;li&gt;“元気だから大丈夫”&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;/cards/images/ChibaMedicalCheckup/Q3-3_Q3-1_Jul2017.png&quot; alt=&quot;Q3-3&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/ChibaMedicalCheckup/Q3-3_Q3-1_Jul2017.png&quot; alt=&quot;Q3-3&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;結論&quot;&gt;結論&lt;/h2&gt;
 &lt;p&gt;まだ回答数が十分とは言えませんが、保健室の利用について、&lt;strong&gt;“どのように利用すればいいかわからないから”&lt;/strong&gt;という回答群が自然に現れたのは重要です。
@@ -77,13 +77,13 @@
   &lt;li&gt;Algorithm: EM algorithm + Belief Propagation + Cross-validation (&lt;a href=&quot;https://github.com/tatsuro-kawamoto/graphBIX&quot; title=&quot;sbmBIX&quot;&gt;graphBIX&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&quot;/cards/images/ChibaMedicalCheckup/Q2-3-1.png&quot; alt=&quot;voteclustering-v0.3&quot; /&gt;
-&lt;img src=&quot;/cards/images/ChibaMedicalCheckup/Q3-1.png&quot; alt=&quot;voteclustering-v0.3&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/ChibaMedicalCheckup/Q2-3-1.png&quot; alt=&quot;voteclustering-v0.3&quot; /&gt;
+&lt;img src=&quot;/images/ChibaMedicalCheckup/Q3-1.png&quot; alt=&quot;voteclustering-v0.3&quot; /&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 08 Oct 2017 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/cards/ChibaMedical/</link>
-        <guid isPermaLink="true">http://localhost:4000/cards/ChibaMedical/</guid>
+        <link>http://localhost:4000/ChibaMedical/</link>
+        <guid isPermaLink="true">http://localhost:4000/ChibaMedical/</guid>
         
         
       </item>
@@ -112,7 +112,7 @@
 
 &lt;p&gt;（横軸：分類数　縦軸：一つの束が、”同じ傾向”と判定された回答集合を示す）&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/cards/images/cocodeclass2017/alluvialDiagram.png&quot; alt=&quot;alluvialdiagram_cocodeclass2017&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/cocodeclass2017/alluvialDiagram.png&quot; alt=&quot;alluvialdiagram_cocodeclass2017&quot; /&gt;&lt;/p&gt;
 
 &lt;!--
 ## なぜ投票クラスタリングするのか
@@ -158,8 +158,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 14 Sep 2017 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/cards/FlowerSchool/</link>
-        <guid isPermaLink="true">http://localhost:4000/cards/FlowerSchool/</guid>
+        <link>http://localhost:4000/FlowerSchool/</link>
+        <guid isPermaLink="true">http://localhost:4000/FlowerSchool/</guid>
         
         
         <category>Buisiness</category>
@@ -195,8 +195,8 @@
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;様子&quot;&gt;様子&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/cards/images/HumanFace/KaoKao_niconico-toukaigi2017.jpeg&quot; alt=&quot;niconico-toukaigi-2017&quot; /&gt; 
-&lt;img src=&quot;/cards/images/HumanFace/KaoKao_niconico-choukaigi2017.jpeg&quot; alt=&quot;niconico-choukaigi-2017&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/HumanFace/KaoKao_niconico-toukaigi2017.jpeg&quot; alt=&quot;niconico-toukaigi-2017&quot; /&gt; 
+&lt;img src=&quot;/images/HumanFace/KaoKao_niconico-choukaigi2017.jpeg&quot; alt=&quot;niconico-choukaigi-2017&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;結果&quot;&gt;結果&lt;/h2&gt;
 &lt;p&gt;(詳しくは、こちらから：
@@ -233,8 +233,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 29 Apr 2017 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/cards/face/</link>
-        <guid isPermaLink="true">http://localhost:4000/cards/face/</guid>
+        <link>http://localhost:4000/face/</link>
+        <guid isPermaLink="true">http://localhost:4000/face/</guid>
         
         
         <category>two</category>
@@ -256,8 +256,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 26 Dec 2016 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/cards/Kagawa2016/</link>
-        <guid isPermaLink="true">http://localhost:4000/cards/Kagawa2016/</guid>
+        <link>http://localhost:4000/Kagawa2016/</link>
+        <guid isPermaLink="true">http://localhost:4000/Kagawa2016/</guid>
         
         
         <category>one</category>
@@ -286,7 +286,7 @@
 &lt;a href=&quot;http://voteclustering.org/&quot; title=&quot;voteclusteringWebSite&quot;&gt;voteclustering.org&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;様子&quot;&gt;様子&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/cards/images/USPresidentialElection/Airport_Lasvegas.jpg&quot; alt=&quot;airport&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/USPresidentialElection/Airport_Lasvegas.jpg&quot; alt=&quot;airport&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;実施解析手法&quot;&gt;実施・解析手法&lt;/h2&gt;
 &lt;ul&gt;
@@ -298,8 +298,8 @@
 &lt;hr /&gt;
 </description>
         <pubDate>Mon, 31 Oct 2016 14:21:47 +0900</pubDate>
-        <link>http://localhost:4000/cards/USPresidentialElection/</link>
-        <guid isPermaLink="true">http://localhost:4000/cards/USPresidentialElection/</guid>
+        <link>http://localhost:4000/USPresidentialElection/</link>
+        <guid isPermaLink="true">http://localhost:4000/USPresidentialElection/</guid>
         
         
         <category>one</category>
