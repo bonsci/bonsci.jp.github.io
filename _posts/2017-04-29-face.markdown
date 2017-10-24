@@ -1,0 +1,67 @@
+---
+layout: post
+title:  "顔顔衰弱@ニコニコ超会議2017"
+categories: jekyll update
+img: HumanFace/KaoKao_cards.jpeg
+categories: two
+---
+
+# 人の顔ってどんなタイプが何種類くらいあると思いますか？
+
+画像を処理して人間の顔識別・分類を行う技術は古くからあります。
+そのようなタスクでは、ピクセル情報から、画像の物理的な特徴を抽出することよって識別を行います。
+
+しかし、**人間同士は互いをどのように識別しているのでしょうか**。
+「しょうゆ顔」「ソース顔」という言葉もありますよね。
+ピクセル情報としては全然違う人たちを、"似ている"と捉えているかもしれません。
+何かしらの（物理的な特徴から）類似性を無意識的に感じ取っているかもしれません。
+それらを確かめるには、実際に人々の主観的なデータを集める必要があります。
+
+## 実験をしてみました
+(詳しくは、こちらから：
+[http://img.voteclustering.org/](http://img.voteclustering.org/))
+
+というわけで、ニコニコ闘会議2017とニコニコ超会議2017に、人の顔で神経衰弱するゲーム、**"顔顔衰弱"**を出展しました。
+ニコニコ闘会議ではクイズアプリ、
+ニコニコ超会議ではカードゲームとして実施。
+
+ルールは簡単。
+
+1. ディーラーが顔カードを数枚並べ、プレイヤーは手札の顔カードと最も似ていると思うカードを選択し、チップを賭ける。
+2. カードの裏には色がついており、ひっくり返して同じ色のペア（＝"似ている"）だったら勝ち（難易度に応じた倍率のチップがもらえる。外れるとチップ没収）[^1][^2]。
+
+![KaoKao-procedure1]({{site.baseurl}}/images/HumanFace/KaoKao_procedure1.png) 
+![KaoKao-procedure2]({{site.baseurl}}/images/HumanFace/KaoKao_procedure2.png)
+
+
+## 結果
+### 分類
+人は"男"と"女"の２種類ではなく、少なくとも３種類に別れるようです。
+
+<div id="HumanFace_tripartition" style="width: 450px; height: 250px;"></div>
+![FacePartition]({{site.baseurl}}/images/HumanFace/FacePartition.png)
+
+### alluvial diagram
+![AlluvialDiagram_KaoKao]({{site.baseurl}}/images/HumanFace/AlluvialDiagram_KaoKao.jpg)
+
+
+## 様子
+![niconico-toukaigi-2017]({{site.baseurl}}/images/HumanFace/KaoKao_niconico-toukaigi2017.jpeg) 
+![niconico-choukaigi-2017]({{site.baseurl}}/images/HumanFace/KaoKao_niconico-choukaigi2017.jpeg)
+
+
+## その他
++ 実際の顔データは、画像集として販売されているモデルさんの写真とイラスト[^3]を使用しました。なので、"男性写真"、"女性写真"、"男性イラスト"、"女性イラスト"という分類も、自然に出現します。
++ データは150人分なので、多いわけではありません。また、用意したデータセットに偏りはあります。（しかしどう偏っているかは、事前にはわかりません。）
+
+
+[^1]: ある時点までで収集された全データを使って、すべての顔を分類。同じグループに属しているペアは、みんなが"似ている"と思っていると解釈します。
+[^2]: 実際は、複数人でプレイ。順番で誰か一人がペアを選択し、周りで見ている人には、選ばれたペアが"似ている"と思うか思わないかを賭けてもらいます。
+[^3]: Pixivのイラストは、すべて著作者からの承認を得て使用・掲載しています。
+
+## 実施・解析手法
+- Data collection：神経衰弱カードゲーム "顔顔衰弱"
+- Framework：Stochastic blockmodelによるベイズ推論
+- Algorithm: EM algorithm + Belief Propagation + Cross-validation ([graphBIX](https://github.com/tatsuro-kawamoto/graphBIX "sbmBIX"))
+
+---
