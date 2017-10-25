@@ -35,4 +35,7 @@ categories: [one, two]
 - Framework：Labeled stochastic blockmodelによるベイズ推論
 - Algorithm: EM algorithm + Belief Propagation + Cross-validation ([graphBIX](https://github.com/tatsuro-kawamoto/graphBIX "labeledBIX"))
 
+## 実施主体
+このデータは、本サイトの運営者（川本）が、有給休暇をとって現地で収集しました。交通費、その他経費諸々は自費です。
+
 ---

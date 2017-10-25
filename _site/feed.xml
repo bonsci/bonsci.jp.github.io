@@ -4,10 +4,10 @@
     <title>BonSci</title>
     <description>BonSci is a set of frameworks for gathering and summarizing human intuitions and opinions.
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 25 Oct 2017 01:31:48 +0900</pubDate>
-    <lastBuildDate>Wed, 25 Oct 2017 01:31:48 +0900</lastBuildDate>
+    <link>http://localhost:4000/bonsci.jp.github.io/</link>
+    <atom:link href="http://localhost:4000/bonsci.jp.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 25 Oct 2017 21:20:44 +0900</pubDate>
+    <lastBuildDate>Wed, 25 Oct 2017 21:20:44 +0900</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -42,7 +42,7 @@
   &lt;li&gt;“特に体調不良がないため”&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/ChibaMedicalCheckup/Q2-3_display.png&quot; alt=&quot;Q2-3&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/bonsci.jp.github.io/images/ChibaMedicalCheckup/Q2-3_display.png&quot; alt=&quot;Q2-3&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;q3-健康診断について&quot;&gt;Q3. 健康診断について&lt;/h3&gt;
 &lt;div id=&quot;donutchart_2&quot; style=&quot;width: 450px; height: 250px;&quot;&gt;&lt;/div&gt;
@@ -60,7 +60,7 @@
   &lt;li&gt;“元気だから大丈夫”&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/ChibaMedicalCheckup/Q3-3_display.png&quot; alt=&quot;Q3-3&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/bonsci.jp.github.io/images/ChibaMedicalCheckup/Q3-3_display.png&quot; alt=&quot;Q3-3&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;今後の予定&quot;&gt;今後の予定&lt;/h2&gt;
 &lt;p&gt;千葉大学でのアンケート調査は、今後も継続していく予定です。関係者のみなさま、どうぞよろしくお願いします。&lt;/p&gt;
@@ -72,13 +72,15 @@
   &lt;li&gt;Algorithm: EM algorithm + Belief Propagation + Cross-validation (&lt;a href=&quot;https://github.com/tatsuro-kawamoto/graphBIX&quot; title=&quot;sbmBIX&quot;&gt;graphBIX&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/ChibaMedicalCheckup/Q2-3-1.png&quot; alt=&quot;voteclustering-v0.3&quot; /&gt;
-&lt;img src=&quot;/images/ChibaMedicalCheckup/Q3-1.png&quot; alt=&quot;voteclustering-v0.3&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/bonsci.jp.github.io/images/ChibaMedicalCheckup/Q2-3-1.png&quot; alt=&quot;voteclustering-v0.3&quot; /&gt;
+&lt;img src=&quot;/bonsci.jp.github.io/images/ChibaMedicalCheckup/Q3-1.png&quot; alt=&quot;voteclustering-v0.3&quot; /&gt;&lt;/p&gt;
 
+&lt;h2 id=&quot;実施主体&quot;&gt;実施主体&lt;/h2&gt;
+&lt;p&gt;本アンケートは、千葉大学総合安全衛生管理機構による調査として実施されました。&lt;/p&gt;
 </description>
         <pubDate>Sun, 08 Oct 2017 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/ChibaMedical/</link>
-        <guid isPermaLink="true">http://localhost:4000/ChibaMedical/</guid>
+        <link>http://localhost:4000/bonsci.jp.github.io/ChibaMedical/</link>
+        <guid isPermaLink="true">http://localhost:4000/bonsci.jp.github.io/ChibaMedical/</guid>
         
         
       </item>
@@ -107,7 +109,7 @@
 
 &lt;p&gt;（横軸：分類数　縦軸：一つの束が、”同じ傾向”と判定された回答集合を示す）&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/cocodeclass2017/alluvialDiagram.png&quot; alt=&quot;alluvialdiagram_cocodeclass2017&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/bonsci.jp.github.io/images/cocodeclass2017/alluvialDiagram.png&quot; alt=&quot;alluvialdiagram_cocodeclass2017&quot; /&gt;&lt;/p&gt;
 
 &lt;!--
 ## なぜ投票クラスタリングするのか
@@ -153,8 +155,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 14 Sep 2017 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/FlowerSchool/</link>
-        <guid isPermaLink="true">http://localhost:4000/FlowerSchool/</guid>
+        <link>http://localhost:4000/bonsci.jp.github.io/FlowerSchool/</link>
+        <guid isPermaLink="true">http://localhost:4000/bonsci.jp.github.io/FlowerSchool/</guid>
         
         
         <category>Buisiness</category>
@@ -189,22 +191,22 @@
   &lt;li&gt;カードの裏には色がついており、ひっくり返して同じ色のペア（＝”似ている”）だったら勝ち（難易度に応じた倍率のチップがもらえる。外れるとチップ没収）&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;。&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/HumanFace/KaoKao_procedure1.png&quot; alt=&quot;KaoKao-procedure1&quot; /&gt; 
-&lt;img src=&quot;/images/HumanFace/KaoKao_procedure2.png&quot; alt=&quot;KaoKao-procedure2&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/bonsci.jp.github.io/images/HumanFace/KaoKao_procedure1.png&quot; alt=&quot;KaoKao-procedure1&quot; /&gt; 
+&lt;img src=&quot;/bonsci.jp.github.io/images/HumanFace/KaoKao_procedure2.png&quot; alt=&quot;KaoKao-procedure2&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;結果&quot;&gt;結果&lt;/h2&gt;
 &lt;h3 id=&quot;分類&quot;&gt;分類&lt;/h3&gt;
 &lt;p&gt;人は”男”と”女”の２種類ではなく、少なくとも３種類に別れるようです。&lt;/p&gt;
 
 &lt;div id=&quot;HumanFace_tripartition&quot; style=&quot;width: 450px; height: 250px;&quot;&gt;&lt;/div&gt;
-&lt;p&gt;&lt;img src=&quot;/images/HumanFace/FacePartition.png&quot; alt=&quot;FacePartition&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/bonsci.jp.github.io/images/HumanFace/FacePartition.png&quot; alt=&quot;FacePartition&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;alluvial-diagram&quot;&gt;alluvial diagram&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;/images/HumanFace/AlluvialDiagram_KaoKao.jpg&quot; alt=&quot;AlluvialDiagram_KaoKao&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/bonsci.jp.github.io/images/HumanFace/AlluvialDiagram_KaoKao.jpg&quot; alt=&quot;AlluvialDiagram_KaoKao&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;様子&quot;&gt;様子&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/images/HumanFace/KaoKao_niconico-toukaigi2017.jpeg&quot; alt=&quot;niconico-toukaigi-2017&quot; /&gt; 
-&lt;img src=&quot;/images/HumanFace/KaoKao_niconico-choukaigi2017.jpeg&quot; alt=&quot;niconico-choukaigi-2017&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/bonsci.jp.github.io/images/HumanFace/KaoKao_niconico-toukaigi2017.jpeg&quot; alt=&quot;niconico-toukaigi-2017&quot; /&gt; 
+&lt;img src=&quot;/bonsci.jp.github.io/images/HumanFace/KaoKao_niconico-choukaigi2017.jpeg&quot; alt=&quot;niconico-choukaigi-2017&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;その他&quot;&gt;その他&lt;/h2&gt;
 &lt;ul&gt;
@@ -218,6 +220,9 @@
   &lt;li&gt;Framework：Stochastic blockmodelによるベイズ推論&lt;/li&gt;
   &lt;li&gt;Algorithm: EM algorithm + Belief Propagation + Cross-validation (&lt;a href=&quot;https://github.com/tatsuro-kawamoto/graphBIX&quot; title=&quot;sbmBIX&quot;&gt;graphBIX&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h2 id=&quot;実施主体&quot;&gt;実施主体&lt;/h2&gt;
+&lt;p&gt;このプロジェクトは、産業技術総合研究所 NEDOプロジェクトの人間工学実験として実施されました。&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;div class=&quot;footnotes&quot;&gt;
@@ -235,8 +240,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 29 Apr 2017 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/face/</link>
-        <guid isPermaLink="true">http://localhost:4000/face/</guid>
+        <link>http://localhost:4000/bonsci.jp.github.io/face/</link>
+        <guid isPermaLink="true">http://localhost:4000/bonsci.jp.github.io/face/</guid>
         
         
         <category>two</category>
@@ -256,10 +261,13 @@
   &lt;li&gt;我々のシステム（投票クラスタリング）のパフォーマンスを一番真面目に検証した例です。&lt;/li&gt;
   &lt;li&gt;非自明な結果が得られています。&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h2 id=&quot;実施主体&quot;&gt;実施主体&lt;/h2&gt;
+&lt;p&gt;このアンケートは、ある国立大学の公式調査として実施されました。&lt;/p&gt;
 </description>
         <pubDate>Mon, 26 Dec 2016 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/Kagawa2016/</link>
-        <guid isPermaLink="true">http://localhost:4000/Kagawa2016/</guid>
+        <link>http://localhost:4000/bonsci.jp.github.io/Kagawa2016/</link>
+        <guid isPermaLink="true">http://localhost:4000/bonsci.jp.github.io/Kagawa2016/</guid>
         
         
         <category>one</category>
@@ -289,7 +297,7 @@
 &lt;a href=&quot;http://voteclustering.org/&quot; title=&quot;voteclusteringWebSite&quot;&gt;voteclustering.org&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;様子&quot;&gt;様子&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/images/USPresidentialElection/Airport_Lasvegas.jpg&quot; alt=&quot;airport&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/bonsci.jp.github.io/images/USPresidentialElection/Airport_Lasvegas.jpg&quot; alt=&quot;airport&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;実施解析手法&quot;&gt;実施・解析手法&lt;/h2&gt;
 &lt;ul&gt;
@@ -298,11 +306,14 @@
   &lt;li&gt;Algorithm: EM algorithm + Belief Propagation + Cross-validation (&lt;a href=&quot;https://github.com/tatsuro-kawamoto/graphBIX&quot; title=&quot;labeledBIX&quot;&gt;graphBIX&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h2 id=&quot;実施主体&quot;&gt;実施主体&lt;/h2&gt;
+&lt;p&gt;このデータは、本サイトの運営者（川本）が、有給休暇をとって現地で収集しました。交通費、その他経費諸々は自費です。&lt;/p&gt;
+
 &lt;hr /&gt;
 </description>
         <pubDate>Mon, 31 Oct 2016 14:21:47 +0900</pubDate>
-        <link>http://localhost:4000/USPresidentialElection/</link>
-        <guid isPermaLink="true">http://localhost:4000/USPresidentialElection/</guid>
+        <link>http://localhost:4000/bonsci.jp.github.io/USPresidentialElection/</link>
+        <guid isPermaLink="true">http://localhost:4000/bonsci.jp.github.io/USPresidentialElection/</guid>
         
         
         <category>one</category>
