@@ -2,7 +2,7 @@
 layout: post
 title:  "大学教育アンケート"
 categories: educational
-img: Kagawa2016/Kagawa2016.png
+img: UnivEd2016/UnivEd2016.png
 categories: [one, two]
 ---
 
