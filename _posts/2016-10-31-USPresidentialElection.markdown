@@ -15,11 +15,11 @@ categories: [one, two]
 前日の18日と当日の19日、キャンパス内を歩いている人々、候補者を応援している人々に話しかけ、街頭アンケートに答えてもらいました。
 
 
-<div id="USPresidentialElection2016_respondents" style="width: 450px; height: 250px;"></div>
+<!-- <div id="USPresidentialElection2016_respondents" style="width: 450px; height: 250px;"></div> -->
 
-全部で集まった回答数は117人分。そのうち独自の意見を書き込んでくれた人は49人でした。
+<!-- 全部で集まった回答数は117人分。そのうち独自の意見を書き込んでくれた人は49人でした。
 ネバダ大学（NVLV）で得られた回答、ウェブで得られた回答、初期入力の割合は上図のとおりです。
-これらの中には、アメリカ国民以外も含まれています。
+これらの中には、アメリカ国民以外も含まれています。 -->
 
 ## 結果
 論文準備中のため、まだあまり書けませんが、
@@ -35,7 +35,7 @@ categories: [one, two]
 - Framework：Labeled stochastic blockmodelによるベイズ推論
 - Algorithm: EM algorithm + Belief Propagation + Cross-validation ([graphBIX](https://github.com/tatsuro-kawamoto/graphBIX "labeledBIX"))
 
-## 実施主体
-このデータは、本サイトの運営者（川本）が、有給休暇をとって現地で収集しました。交通費、その他経費諸々は自費です。
+## その他
+- このデータは、本サイトの運営者（川本）が、有給休暇をとって現地で収集しました。交通費、その他経費諸々は自費です。
 
 ---

@@ -64,7 +64,7 @@ categories: two
 - Framework：Stochastic blockmodelによるベイズ推論
 - Algorithm: EM algorithm + Belief Propagation + Cross-validation ([graphBIX](https://github.com/tatsuro-kawamoto/graphBIX "sbmBIX"))
 
-## 実施主体
+## その他
 このプロジェクトは、産業技術総合研究所 NEDOプロジェクトの人間工学実験として実施されました。
 
 ---

@@ -62,5 +62,5 @@ img: ChibaMedicalCheckup/kenkoushindan_monshin.png
 ![voteclustering-v0.3]({{site.baseurl}}/images/ChibaMedicalCheckup/Q2-3-1.png)
 ![voteclustering-v0.3]({{site.baseurl}}/images/ChibaMedicalCheckup/Q3-1.png)
 
-## 実施主体
+## その他
 本アンケートは、千葉大学総合安全衛生管理機構による調査として実施されました。
