@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 29 Oct 2017 19:05:55 +0900</pubDate>
-    <lastBuildDate>Sun, 29 Oct 2017 19:05:55 +0900</lastBuildDate>
+    <pubDate>Sun, 29 Oct 2017 19:10:58 +0900</pubDate>
+    <lastBuildDate>Sun, 29 Oct 2017 19:10:58 +0900</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -166,7 +166,7 @@
     
       <item>
         <title>顔顔衰弱@ニコニコ超会議2017</title>
-        <description>&lt;h2 id=&quot;人の顔ってどんなタイプが何種類くらいあると思いますか&quot;&gt;人の顔ってどんなタイプが何種類くらいあると思いますか？&lt;/h2&gt;
+        <description>&lt;h2 id=&quot;人の顔は何タイプあるでしょうか&quot;&gt;人の顔は、何タイプあるでしょうか？&lt;/h2&gt;
 
 &lt;p&gt;画像を処理して人間の顔識別・分類を行う技術は古くからあります。
 そのようなタスクでは、ピクセル情報から、画像の物理的な特徴を抽出することよって識別を行います。&lt;/p&gt;
