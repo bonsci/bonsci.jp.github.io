@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 保健室・健康診断アンケート@千葉大学
+title: 保健室・健康診断アンケート
 img: ChibaMedicalCheckup/kenkoushindan_monshin.png
 ---
 
@@ -8,7 +8,7 @@ img: ChibaMedicalCheckup/kenkoushindan_monshin.png
 # 保健室を利用する・しない理由 / 健康診断を受ける・受けない理由はなんですか？
 
 保健管理施設の利用と健康診断受診に関するアンケートです。
-大学の保健管理施設と健康診断について、自由な意見を千葉大学の学生さんたちから募集し、その傾向を調査しました。
+大学の保健管理施設と健康診断について、自由な意見を大学の学生さんたちから募集し、その傾向を調査しました。
 今後の保健管理施設運営や健康診断の実施に役立てればと考えています。
 
 ## 結果
@@ -52,7 +52,7 @@ img: ChibaMedicalCheckup/kenkoushindan_monshin.png
 ![Q3-3]({{site.baseurl}}/images/ChibaMedicalCheckup/Q3-3_display.png)
 
 ## 今後の予定
-千葉大学でのアンケート調査は、今後も継続していく予定です。関係者のみなさま、どうぞよろしくお願いします。
+本アンケート調査は、今後も継続していく予定です。関係者のみなさま、どうぞよろしくお願いします。
 
 ## 実施・解析手法
 - Data collection：投票クラスタリング (v0.3)
@@ -63,4 +63,5 @@ img: ChibaMedicalCheckup/kenkoushindan_monshin.png
 ![voteclustering-v0.3]({{site.baseurl}}/images/ChibaMedicalCheckup/Q3-1.png)
 
 ## その他
-本アンケートは、千葉大学総合安全衛生管理機構による調査として実施されました。
+本調査は、国立大学法人千葉大学総合安全衛生管理機構及び千葉大学フロンティア医工学センター研究倫理審査委員会の承認（承認番号29-09）を得て行われ
+ました。
