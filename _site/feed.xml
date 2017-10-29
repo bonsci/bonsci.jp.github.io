@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 29 Oct 2017 18:16:55 +0900</pubDate>
-    <lastBuildDate>Sun, 29 Oct 2017 18:16:55 +0900</lastBuildDate>
+    <pubDate>Sun, 29 Oct 2017 18:20:11 +0900</pubDate>
+    <lastBuildDate>Sun, 29 Oct 2017 18:20:11 +0900</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -241,8 +241,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 29 Apr 2017 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/face/</link>
-        <guid isPermaLink="true">http://localhost:4000/face/</guid>
+        <link>http://localhost:4000/KaoKao/</link>
+        <guid isPermaLink="true">http://localhost:4000/KaoKao/</guid>
         
         
         <category>two</category>
@@ -314,8 +314,8 @@
 &lt;hr /&gt;
 </description>
         <pubDate>Mon, 31 Oct 2016 14:21:47 +0900</pubDate>
-        <link>http://localhost:4000/USPresidentialElection/</link>
-        <guid isPermaLink="true">http://localhost:4000/USPresidentialElection/</guid>
+        <link>http://localhost:4000/USPresidentialElection2016/</link>
+        <guid isPermaLink="true">http://localhost:4000/USPresidentialElection2016/</guid>
         
         
         <category>one</category>
