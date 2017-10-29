@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 29 Oct 2017 18:24:38 +0900</pubDate>
-    <lastBuildDate>Sun, 29 Oct 2017 18:24:38 +0900</lastBuildDate>
+    <pubDate>Sun, 29 Oct 2017 18:40:04 +0900</pubDate>
+    <lastBuildDate>Sun, 29 Oct 2017 18:40:04 +0900</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -182,22 +182,23 @@
 &lt;a href=&quot;http://img.voteclustering.org/&quot;&gt;http://img.voteclustering.org/&lt;/a&gt;)&lt;/p&gt;
 
 &lt;p&gt;というわけで、ニコニコ闘会議2017とニコニコ超会議2017に、人の顔で神経衰弱するゲーム、&lt;strong&gt;“顔顔衰弱”&lt;/strong&gt;を出展しました。
-ニコニコ闘会議ではクイズアプリ、
-ニコニコ超会議ではカードゲームとして実施。&lt;/p&gt;
+ニコニコ闘会議ではクイズアプリ、ニコニコ超会議ではカードゲームとして実施。&lt;/p&gt;
+
+&lt;p&gt;用意した顔データは150人分。
+画像集として販売されているモデルさんの写真&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;と、Pixivで掲載されているイラスト&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;を使用しました。&lt;/p&gt;
 
 &lt;p&gt;ルールは簡単。&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;ディーラーが顔カードを数枚並べ、プレイヤーは手札の顔カードと最も似ていると思うカードを選択し、チップを賭ける。&lt;/li&gt;
-  &lt;li&gt;カードの裏には色がついており、ひっくり返して同じ色のペア（＝”似ている”）だったら勝ち（難易度に応じた倍率のチップがもらえる。外れるとチップ没収）&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;。&lt;/li&gt;
+  &lt;li&gt;カードの裏には色がついており、ひっくり返して同じ色のペア（＝”似ている”&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;）だったら勝ち（難易度に応じた倍率のチップがもらえる。外れるとチップ没収）&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;。&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/HumanFace/KaoKao_procedure1.png&quot; alt=&quot;KaoKao-procedure1&quot; /&gt; 
 &lt;img src=&quot;/images/HumanFace/KaoKao_procedure2.png&quot; alt=&quot;KaoKao-procedure2&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;結果&quot;&gt;結果&lt;/h2&gt;
-&lt;h3 id=&quot;分類&quot;&gt;分類&lt;/h3&gt;
-&lt;p&gt;人は”男”と”女”の２種類ではなく、少なくとも３種類に別れるようです。&lt;/p&gt;
+&lt;h3 id=&quot;3分類&quot;&gt;3分類&lt;/h3&gt;
 
 &lt;div id=&quot;HumanFace_tripartition&quot; style=&quot;width: 450px; height: 250px;&quot;&gt;&lt;/div&gt;
 &lt;p&gt;&lt;img src=&quot;/images/HumanFace/FacePartition.png&quot; alt=&quot;FacePartition&quot; /&gt;&lt;/p&gt;
@@ -209,12 +210,6 @@
 &lt;p&gt;&lt;img src=&quot;/images/HumanFace/KaoKao_niconico-toukaigi2017.jpeg&quot; alt=&quot;niconico-toukaigi-2017&quot; /&gt; 
 &lt;img src=&quot;/images/HumanFace/KaoKao_niconico-choukaigi2017.jpeg&quot; alt=&quot;niconico-choukaigi-2017&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;その他&quot;&gt;その他&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;実際の顔データは、画像集として販売されているモデルさんの写真とイラスト&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;を使用しました。なので、”男性写真”、”女性写真”、”男性イラスト”、”女性イラスト”という分類も、自然に出現します。&lt;/li&gt;
-  &lt;li&gt;データは150人分なので、多いわけではありません。また、用意したデータセットに偏りはあります。（しかしどう偏っているかは、事前にはわかりません。）&lt;/li&gt;
-&lt;/ul&gt;
-
 &lt;h2 id=&quot;実施解析手法&quot;&gt;実施・解析手法&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;Data collection：神経衰弱カードゲーム “顔顔衰弱”&lt;/li&gt;
@@ -222,20 +217,23 @@
   &lt;li&gt;Algorithm: EM algorithm + Belief Propagation + Cross-validation (&lt;a href=&quot;https://github.com/tatsuro-kawamoto/graphBIX&quot; title=&quot;sbmBIX&quot;&gt;graphBIX&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;その他-1&quot;&gt;その他&lt;/h2&gt;
+&lt;h2 id=&quot;その他&quot;&gt;その他&lt;/h2&gt;
 &lt;p&gt;このプロジェクトは、産業技術総合研究所 NEDOプロジェクトの人間工学実験として実施されました。&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;モデルさんの写真は、利用規約の関係上、ここには載せられません。 &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot;&gt;
+      &lt;p&gt;Pixivのイラストは、すべて著作者からの承認を得て使用・掲載しています。 &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
     &lt;li id=&quot;fn:1&quot;&gt;
       &lt;p&gt;ある時点までで収集された全データを使って、すべての顔を分類。同じグループに属しているペアは、みんなが”似ている”と思っていると解釈します。 &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:2&quot;&gt;
       &lt;p&gt;実際は、複数人でプレイ。順番で誰か一人がペアを選択し、周りで見ている人には、選ばれたペアが”似ている”と思うか思わないかを賭けてもらいます。 &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;Pixivのイラストは、すべて著作者からの承認を得て使用・掲載しています。 &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
