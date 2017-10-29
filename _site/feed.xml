@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 29 Oct 2017 18:43:56 +0900</pubDate>
-    <lastBuildDate>Sun, 29 Oct 2017 18:43:56 +0900</lastBuildDate>
+    <pubDate>Sun, 29 Oct 2017 19:05:55 +0900</pubDate>
+    <lastBuildDate>Sun, 29 Oct 2017 19:05:55 +0900</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -206,6 +206,12 @@
 &lt;h3 id=&quot;alluvial-diagram&quot;&gt;alluvial diagram&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&quot;/images/HumanFace/AlluvialDiagram_KaoKao.jpg&quot; alt=&quot;AlluvialDiagram_KaoKao&quot; /&gt;&lt;/p&gt;
 
+&lt;p&gt;男女が区別されるのは当然ですが、中性という分類が自然に出てくるのは面白いところです。
+しかも基本的に男性から分岐しています&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;。
+５分類以上が、真に非自明なところですが、ウェブに載せられる顔画像に限りがある&lt;sup id=&quot;fnref:3:1&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;のと、その分類が統計的に有意&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;か微妙なラインなため、触れないことにします。&lt;/p&gt;
+
+&lt;p&gt;もっと大規模な実験がしてみたいところです。&lt;/p&gt;
+
 &lt;h2 id=&quot;様子&quot;&gt;様子&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&quot;/images/HumanFace/KaoKao_niconico-toukaigi2017.jpeg&quot; alt=&quot;niconico-toukaigi-2017&quot; /&gt; 
 &lt;img src=&quot;/images/HumanFace/KaoKao_niconico-choukaigi2017.jpeg&quot; alt=&quot;niconico-choukaigi-2017&quot; /&gt;&lt;/p&gt;
@@ -224,7 +230,7 @@
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;モデルさんの写真は、利用規約の関係上、ここには載せられません。 &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;モデルさんの写真は、利用規約の関係上、ここには載せられません。 &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:3:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:4&quot;&gt;
       &lt;p&gt;Pixivのイラストは、すべて著作者からの承認を得て使用・掲載しています。 &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
@@ -234,6 +240,12 @@
     &lt;/li&gt;
     &lt;li id=&quot;fn:2&quot;&gt;
       &lt;p&gt;実際は、複数人でプレイ。順番で誰か一人がペアを選択し、周りで見ている人には、選ばれたペアが”似ている”と思うか思わないかを賭けてもらいます。 &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:5&quot;&gt;
+      &lt;p&gt;もちろん、用意したデータセットに偏りがあるから、という可能性は十分にあります。 &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:6&quot;&gt;
+      &lt;p&gt;図中の点線が、いくつかの手法で選ばれる分類数を表しています。”spectral”はnon-backtracking行列の孤立固有値数から見積もった値（3分類）、”dc-SBM”と”SBM”は、それぞれ次数補正あり/なしのstochastic blockmodelの予測誤差の交差検定から選ばれる値（4分類と6分類）。 &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
