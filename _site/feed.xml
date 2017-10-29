@@ -6,13 +6,13 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 29 Oct 2017 18:40:04 +0900</pubDate>
-    <lastBuildDate>Sun, 29 Oct 2017 18:40:04 +0900</lastBuildDate>
+    <pubDate>Sun, 29 Oct 2017 18:43:56 +0900</pubDate>
+    <lastBuildDate>Sun, 29 Oct 2017 18:43:56 +0900</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
         <title>保健室・健康診断アンケート</title>
-        <description>&lt;h1 id=&quot;保健室を利用するしない理由--健康診断を受ける受けない理由はなんですか&quot;&gt;保健室を利用する・しない理由 / 健康診断を受ける・受けない理由はなんですか？&lt;/h1&gt;
+        <description>&lt;h2 id=&quot;保健室を利用するしない理由--健康診断を受ける受けない理由はなんですか&quot;&gt;保健室を利用する・しない理由 / 健康診断を受ける・受けない理由はなんですか？&lt;/h2&gt;
 
 &lt;p&gt;保健管理施設の利用と健康診断受診に関するアンケートです。
 大学の保健管理施設と健康診断について、自由な意見を大学の学生さんたちから募集し、その傾向を調査しました。
@@ -88,7 +88,7 @@
     
       <item>
         <title>アーティフィシャルフラワー展</title>
-        <description>&lt;h1 id=&quot;作品展に来場したお客さんの感想は&quot;&gt;作品展に来場したお客さんの感想は？&lt;/h1&gt;
+        <description>&lt;h2 id=&quot;作品展に来場したお客さんの感想は&quot;&gt;作品展に来場したお客さんの感想は？&lt;/h2&gt;
 
 &lt;p&gt;coco de class株式会社さんが、作品展で実施されたアンケートを集計しました。&lt;/p&gt;
 
@@ -166,7 +166,7 @@
     
       <item>
         <title>顔顔衰弱@ニコニコ超会議2017</title>
-        <description>&lt;h1 id=&quot;人の顔ってどんなタイプが何種類くらいあると思いますか&quot;&gt;人の顔ってどんなタイプが何種類くらいあると思いますか？&lt;/h1&gt;
+        <description>&lt;h2 id=&quot;人の顔ってどんなタイプが何種類くらいあると思いますか&quot;&gt;人の顔ってどんなタイプが何種類くらいあると思いますか？&lt;/h2&gt;
 
 &lt;p&gt;画像を処理して人間の顔識別・分類を行う技術は古くからあります。
 そのようなタスクでは、ピクセル情報から、画像の物理的な特徴を抽出することよって識別を行います。&lt;/p&gt;
@@ -249,7 +249,7 @@
     
       <item>
         <title>大学教育アンケート</title>
-        <description>&lt;h1 id=&quot;大学で学んでよかったことはなんですか&quot;&gt;大学で学んで、よかったことはなんですか？&lt;/h1&gt;
+        <description>&lt;h2 id=&quot;大学で学んでよかったことはなんですか&quot;&gt;大学で学んで、よかったことはなんですか？&lt;/h2&gt;
 
 &lt;p&gt;ある大学の教育学部の卒業生アンケートです。&lt;/p&gt;
 
@@ -276,7 +276,7 @@
     
       <item>
         <title>2016年アメリカ大統領選挙</title>
-        <description>&lt;h1 id=&quot;テレビ討論会の会場ネバダ大学ラスベガス校で突撃街頭アンケート&quot;&gt;テレビ討論会の会場（ネバダ大学ラスベガス校）で突撃街頭アンケート&lt;/h1&gt;
+        <description>&lt;h2 id=&quot;テレビ討論会の会場ネバダ大学ラスベガス校で突撃街頭アンケート&quot;&gt;テレビ討論会の会場（ネバダ大学ラスベガス校）で突撃街頭アンケート&lt;/h2&gt;
 
 &lt;h2 id=&quot;概要&quot;&gt;概要&lt;/h2&gt;
 &lt;p&gt;2016年10月19日、アメリカ大統領選挙のテレビ討論会の最終ラウンドがラスベガスのネバダ大学で開催されました。&lt;/p&gt;

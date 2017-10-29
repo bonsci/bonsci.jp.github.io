@@ -5,7 +5,7 @@ categories: Buisiness
 img: cocodeclass2017/cocodeclass.jpg
 ---
 
-# 作品展に来場したお客さんの感想は？
+## 作品展に来場したお客さんの感想は？
 
 coco de class株式会社さんが、作品展で実施されたアンケートを集計しました。
 
