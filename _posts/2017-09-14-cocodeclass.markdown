@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "アーティフィシャルフラワー作品展"
+title:  "アーティフィシャルフラワー展"
 categories: Buisiness
 img: cocodeclass2017/cocodeclass.jpg
 ---
