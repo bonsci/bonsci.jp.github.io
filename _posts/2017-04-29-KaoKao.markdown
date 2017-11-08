@@ -64,11 +64,12 @@ categories: two
 [^6]: 図中の点線が、いくつかの手法で選ばれる分類数を表しています。"spectral"はnon-backtracking行列の孤立固有値数から見積もった値（3分類）、"dc-SBM"と"SBM"は、それぞれ次数補正あり/なしのstochastic blockmodelの予測誤差の交差検定から選ばれる値（4分類と6分類）。
 
 ## 実施・解析手法
-- Data collection：神経衰弱カードゲーム "顔顔衰弱"
+- Data collection：神経衰弱カードゲーム "顔顔衰弱" (ShikiSci_Cyan)
 - Framework：Stochastic blockmodelによるベイズ推論
 - Algorithm: EM algorithm + Belief Propagation + Cross-validation ([graphBIX](https://github.com/tatsuro-kawamoto/graphBIX "sbmBIX"))
 
 ## その他
-このプロジェクトは、産業技術総合研究所 NEDOプロジェクトの人間工学実験として実施されました。
+- このプロジェクトは、産業技術総合研究所 NEDOプロジェクトの人間工学実験として実施されました。
+- 本実験は、産業技術総合研究所 確率モデリングチームの近藤那央さん、大前智嵩くんと共に実施しました。
 
 ---
