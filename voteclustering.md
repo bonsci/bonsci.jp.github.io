@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 投票クラスタリング (voteclustering)
+title: voteclustering
 permalink: /voteclustering/
 ---
 
