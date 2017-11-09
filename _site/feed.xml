@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BonSci</title>
-    <description>BonSci is a set of frameworks for gathering and summarizing human intuitions and opinions.
+    <description>A project summarizing human intuitions and opinions.
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 10 Nov 2017 00:43:45 +0900</pubDate>
-    <lastBuildDate>Fri, 10 Nov 2017 00:43:45 +0900</lastBuildDate>
+    <pubDate>Fri, 10 Nov 2017 01:18:29 +0900</pubDate>
+    <lastBuildDate>Fri, 10 Nov 2017 01:18:29 +0900</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
