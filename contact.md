@@ -5,6 +5,6 @@ permalink: /contact/
 ---
 
 
-ご興味持たれた方はこちらから：
+ご興味持たれた方は管理人まで：
 
-[voteclustering@gmail.com](<mailto:voteclustering@gmail.com>)
+[https://tatsuro-kawamoto-jp.github.io](https://tatsuro-kawamoto-jp.github.io)
