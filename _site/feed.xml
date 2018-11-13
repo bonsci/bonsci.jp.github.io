@@ -6,13 +6,143 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 26 May 2018 16:34:35 +0900</pubDate>
-    <lastBuildDate>Sat, 26 May 2018 16:34:35 +0900</lastBuildDate>
-    <generator>Jekyll v3.3.0</generator>
+    <pubDate>Tue, 13 Nov 2018 19:03:38 +0900</pubDate>
+    <lastBuildDate>Tue, 13 Nov 2018 19:03:38 +0900</lastBuildDate>
+    <generator>Jekyll v3.7.4</generator>
     
       <item>
-        <title>論述式試験問題勉強ツール</title>
-        <description>&lt;h2 id=&quot;section&quot;&gt;他人の解答を見て勉強する&lt;/h2&gt;
+        <title>ビアナビ (KIRIN)</title>
+        <description>&lt;h2 id=&quot;クラフトビールおすすめアプリ&quot;&gt;クラフトビールおすすめアプリ&lt;/h2&gt;
+
+&lt;p&gt;生活習慣等に関する質問に数問答えると、KIRINのクラフトビールがおすすめされます。&lt;/p&gt;
+
+&lt;p&gt;【WBS（ワールドビジネスサテライト）】&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.tv-tokyo.co.jp/mv/wbs/newsl/post_166151/%E3%80%80&quot; target=&quot;_blank&quot;&gt;http://www.tv-tokyo.co.jp/mv/wbs/newsl/post_166151/%E3%80%80&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;【TBSニュース】&lt;/p&gt;
+&lt;iframe width=&quot;392&quot; height=&quot;221&quot; src=&quot;https://www.youtube.com/embed/N96sHNgWahs&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h4 id=&quot;その他のプレス&quot;&gt;その他のプレス&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nikkei.com/article/DGXMZO3746930007112018XQH000/&quot;&gt;日本経済新聞&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://headlines.yahoo.co.jp/hl?a=20181107-00000054-impress-sci&quot;&gt;Yahoo!ニュース&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://news.mynavi.jp/article/20181107-720345/&quot;&gt;マイナビニュース&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://news.nissyoku.co.jp/news/detailNewsFlash/?id=SXMARUYAMA20181107124753276&quot;&gt;日本食糧新聞&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://beergirl.net/beernavi_n/&quot;&gt;ビール女子&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ryutsuu.biz/it/k110714.html&quot;&gt;流通ニュース&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://fv1.jp/60543/&quot;&gt;フードボイス&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;概要&quot;&gt;概要&lt;/h2&gt;
+&lt;p&gt;産総研AIコンソーシアムという枠組みの中で、産総研と参加企業が共同で実施しているプロジェクトです。
+今回は、KIRINさんが以前収集された嗜好アンケートデータを基にして、解析結果を推薦アプリに乗せ、実店舗で実験しています。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;場所：キリンシティプラス池袋WACCA, キリンシティプラス横浜ベイクォーター&lt;/li&gt;
+  &lt;li&gt;実験期間：2018年11月8日〜2018年12月16日&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;中身のベースは、前年の「&lt;a href=&quot;/KigyokaMuseum2017/&quot;&gt;企業家タイプ診断&lt;/a&gt;」と同じです。
+しかし、前年と比べると、推薦結果に応じて店舗で実際にビールを提供するという違いもありますが、
+UI/UX等をKIRINさんのほうでかなり手を加えられたので、見栄えが全然違います…！&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/BeerNavi/navi1.jpg&quot; style=&quot;   width: 200px;   border: solid;   background: none;   margin: 1% 1% 1%; &quot; /&gt;
+&lt;img src=&quot;/images/BeerNavi/navi2.jpg&quot; style=&quot;   width: 200px;   border: solid;   background: none;   margin: 1% 1% 1%; &quot; /&gt;
+&lt;img src=&quot;/images/BeerNavi/navi3.jpg&quot; style=&quot;   width: 200px;   border: solid;   background: none;   margin: 1% 1% 1%; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;質問に答えると、KIRINのクラフトビールが１つおすすめされます。
+（実際におすすめされるのは、「ブルックリン ラガー」「JAZZBERRY」「Daydream」「496」の4種類です。）
+&lt;img src=&quot;/images/BeerNavi/hello_my_beer.png&quot; style=&quot;   width: 600px;   border: none;   background: none;   margin: 2% 10% 2% 10%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;裏で何をしているのか&quot;&gt;裏で何をしているのか&lt;/h2&gt;
+&lt;p&gt;全体のフローは下の図のようなかんじです。
+統計解析パート以外、やっていることは単純です。
+後述しますが、ここでは「おすすめの精度を高めるように機械学習する」&lt;strong&gt;わけではありません&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/BeerNavi/ShikiSci_yellow.jpg&quot; style=&quot;   width: 600px;   border: none;   background: none;   margin: 2% 10% 2% 10%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;1-嗜好アンケートデータ&quot;&gt;1. 嗜好アンケートデータ&lt;/h3&gt;
+&lt;p&gt;まず、事前にKIRINさんが収集された嗜好アンケートデータがあります&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;。
+各回答者には、100問以上の生活習慣等についての質問に答えるとともに、好きなクラフトビールを選択してもらっています。&lt;/p&gt;
+
+&lt;h3 id=&quot;2-統計解析&quot;&gt;2. 統計解析&lt;/h3&gt;
+&lt;p&gt;嗜好アンケートデータで、特定の回答者群が生活習慣の質問について同じような回答をしているとすれば、その生活習慣のグループは&lt;strong&gt;ライフスタイル&lt;/strong&gt;を表していると解釈でき、対応する回答者群は、そのライフスタイルを持っている人々と考えられます。
+回答者と回答文（生活習慣）は、関係データ（グラフ）になっているので、グラフクラスタリングによってライフスタイルとそれにマッチする回答者群を推論します。ライフスタイルの数もデータに基づいて推定します。&lt;/p&gt;
+
+&lt;p&gt;ライフスタイルと回答者群のマッチングができたら、その回答者群が最も好んでいるクラフトビールを紐付け、「ライフスタイルに対応するクラフトビール」とします。&lt;/p&gt;
+
+&lt;h3 id=&quot;3-リコメンド-サービス&quot;&gt;3. リコメンド サービス&lt;/h3&gt;
+&lt;p&gt;上記のデータをベースとして、ビールのリコメンドを行います。
+お店でお客さんが生活習慣についてのいくつかの質問に答えると、そのお客さんに当てはまる確率が最も高いライフスタイルを、上記の解析結果に基づいて計算します。
+そして、そのライフスタイルに紐付けられたクラフトビールがおすすめされます&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
+
+&lt;p&gt;おすすめをするのと同時に、お客さんからのデータが集まってきます。
+これらのデータを含めて再度上記のクラスタリング解析をする、というサイクルが回せます。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;おすすめの精度を高めるように機械学習するわけではありません&quot;&gt;「おすすめの精度を高めるように機械学習する」わけではありません&lt;/h2&gt;
+&lt;h3 id=&quot;予測誤差を最小化するモデルを組めばよい&quot;&gt;予測誤差を最小化するモデルを組めばよい？&lt;/h3&gt;
+&lt;p&gt;リコメンド アプリと呼ぶのであれば、ライフスタイルのことなど考えず、「客が好みそうなビールを当てられるように、手持ちのデータから予測モデルをひたすら学習すれば良いのでは?」と思われるかもしれません。
+実際、そういうこともできます。
+理由はともあれ正確に予測できることに価値がある場合（囲碁で”次に打たれる手を予測する”など）は、それでいいのですが、ビールを”正確”に予測することを追求するのは、ちょっと微妙です。よくある話ですが、予測モデルを学習しても、多くの場合「なぜ当たるのか」は理解できるようにならないので、運営側としても見返りがあまりありません。&lt;/p&gt;
+
+&lt;p&gt;そもそも「好きなビール」というのは主観なので、確固たる傾向などあるのか怪しいものです。&lt;/p&gt;
+
+&lt;p&gt;さらに、おすすめされた結果を見たところで、「これはワシが本当に好きなビールじゃない！」とはあまりならないので（そういう人にはリコメンドは不要ですね）、おすすめの”正解”とは何なのかもはっきりしたものではないのです。&lt;/p&gt;
+
+&lt;h3 id=&quot;ライフスタイルとの連関に基づいておすすめをしよう&quot;&gt;ライフスタイルとの連関に基づいておすすめをしよう&lt;/h3&gt;
+&lt;p&gt;ではおすすめをするということは、まったくナンセンスなのでしょうか。
+逆に人々の好みがまったくランダムであるというのも若干信じ難いので、なんらかの傾向はあるかもしれません。&lt;/p&gt;
+
+&lt;p&gt;質問項目は、主に生活習慣についての質問に絞っています。回答者についてのありとあらゆる特徴を聞いているわけではないので、そもそもライフスタイルと好みのビールが関連していることを前提としています。
+なので、ライフスタイルとビールの好みに連関が見られれば、おおまかなおすすめとしては良いのではないか、というスタンスです。
+完全な理解には程遠いですが&lt;sup id=&quot;fnref:2:1&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;、人々のビールの好みについての理解は進みます&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
+
+&lt;p&gt;ただ、お店のアプリで「あなたのライフスタイルにはビールとの連関がないので、特におすすめはありません」とするのは、お客さんへのサービスとしては問題ありまくりなので、連関があるかないかに関わらず、おすすめは出ます。（アプリはサービスであって、科学実験の測定器ではないのです！）&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;実施解析手法&quot;&gt;実施・解析手法&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Data collection (base App)：ShikiSci_yellow&lt;/li&gt;
+  &lt;li&gt;Framework：Stochastic blockmodelによるベイズ推論&lt;/li&gt;
+  &lt;li&gt;Algorithm: nonparametric MCMC [Newman&amp;amp;Reinert, Phys.Rev.Lett. (2016)]&lt;/li&gt;
+  &lt;li&gt;Model selection: Palette diagram [C. Noguchi &amp;amp; T. Kawamoto, in preparation.]&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;「&lt;a href=&quot;/KigyokaMuseum2017/&quot;&gt;企業家タイプ診断&lt;/a&gt;」のときは、ここが伝記漫画の資料だったわけです。 &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;ライフスタイルのパターン数は、回答データに基づいて決定していて、クラフトビールのバラエティと一致しているとは限りません。また、ライフスタイルごとに異なるクラフトビールが割り当てられているとも限りません。 &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:2:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;もちろん、ライフスタイルがビールの好みを測る最適な基準である保証はどこにもないですし、因果関係はぜんぜん別の事実にあるかもしれません。 &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 10 Nov 2018 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/BeerNavi/</link>
+        <guid isPermaLink="true">http://localhost:4000/BeerNavi/</guid>
+        
+        
+        <category>buisiness</category>
+        
+      </item>
+    
+      <item>
+        <title>論述式試験の勉強ツール</title>
+        <description>&lt;h2 id=&quot;他人の解答を見て勉強する&quot;&gt;他人の解答を見て勉強する&lt;/h2&gt;
 
 &lt;p&gt;&lt;em&gt;結論から言うと、この実験は（今のところ）失敗です。&lt;/em&gt;&lt;/p&gt;
 
@@ -20,11 +150,11 @@
 もちろん、学校・塾の先生にチェックしてもらうというのがベストなわけですが、毎回の見てもらうコストが高いので、数がこなせません。
 そこで（需要があると信じて）、過去問を解きながら、受験生同士で解答を共有するツールを作成しました。&lt;/p&gt;
 
-&lt;p&gt;具体的には、司法試験（論文形式）の勉強ツールとして実装しました&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;[^2]。&lt;/p&gt;
+&lt;p&gt;具体的には、司法試験（論文形式）の勉強ツールとして実装しました&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
 
 &lt;p&gt;余談ですが、司法試験の模範解答速報も、法務省から発表される「出題趣旨」というのが出る前だと、間違っていたりするそうです。&lt;/p&gt;
 
-&lt;h2 id=&quot;section-1&quot;&gt;手順&lt;/h2&gt;
+&lt;h2 id=&quot;手順&quot;&gt;手順&lt;/h2&gt;
 &lt;ol&gt;
   &lt;li&gt;試験問題を読む。&lt;/li&gt;
   &lt;li&gt;問題の解答を書き込む（+法律の第何条が適用されるかのタグ付け）。&lt;/li&gt;
@@ -33,16 +163,16 @@
 
 &lt;p&gt;投稿すると、ランキング形式で“いいね”の多い解答と最も当てはめられている法律の条文が表示され、答え合わせ的なことができます。&lt;/p&gt;
 
-&lt;p&gt;ただ、人気の解答が、「正しそうな解答」なのか「よくある間違い」なのかはわからないですが&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
+&lt;p&gt;ただ、人気の解答が、「正しそうな解答」なのか「よくある間違い」なのかはわからないですが&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
 
-&lt;h2 id=&quot;section-2&quot;&gt;できる（はずの）こと&lt;/h2&gt;
+&lt;h2 id=&quot;できるはずのこと&quot;&gt;できる（はずの）こと&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;大量の論文形式試験問題についての模範解答データセットができる。正解だけではなく、間違え方もわかる。&lt;/li&gt;
   &lt;li&gt;どんな事例にはどの条文が適用されるべきなのか（いわゆる「当てはめ問題」）、逆にどの法律がどんな事例に対応するのかの”辞書”ができると、裁判員への支援になるかも。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;section-3&quot;&gt;結果&lt;/h2&gt;
-&lt;p&gt;過去問４問を、モニターの方々30人に解いていただきました。&lt;/p&gt;
+&lt;h2 id=&quot;結果&quot;&gt;結果&lt;/h2&gt;
+&lt;p&gt;過去問４問を、モニターの方々30人に解いていただきました（2018年2月に実施）。&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Q1: 平成13年民法第2問&lt;/li&gt;
@@ -58,30 +188,30 @@
 &lt;img src=&quot;/images/BarExamApp/graphQ3.png&quot; alt=&quot;Q3&quot; height=&quot;250px&quot; width=&quot;250px&quot; /&gt;
 &lt;img src=&quot;/images/BarExamApp/graphQ4.png&quot; alt=&quot;Q4&quot; height=&quot;250px&quot; width=&quot;250px&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;上のプロットは、ある１つのグループラベルについての所属確率を色付け（青→赤=高い→低い確率）したものです&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;。
+&lt;p&gt;上のプロットは、ある１つのグループラベルについての所属確率を色付け（青→赤=高い→低い確率）したものです&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;。
 だいたい１グループ（分割されていない）だったり（Q2,Q3）、２分割しても実質分割されていないような結果(Q4)になりました。
 しかし、Q1だけはっきりと２グループに別れています。
 これは「何か非自明な２種類の解答パターンが出たのか！？」と思いたいところですが、実はこの問題だけ、別の問題（平成12年民法第１問）の解答がダミーとして初期解答に埋め込まれています。
-つまり、明らかに違う問題の解答でも埋もれてしまうほどランダムな実験にはなっておらず、「モニターの方々はちゃんと問題には答えてくれているのだけど、そもそも解答パターンが分かれるほどの非自明さがない」ということのようです。&lt;/p&gt;
+つまり、明らかに違う問題の解答でも埋もれてしまうほどランダムな実験にはなっておらず、「モニターの方々はちゃんと問題には答えてくれているのだけど、そもそも解答パターンが分かれるほどの非自明さがない」ということのようです&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
 
-&lt;h2 id=&quot;section-4&quot;&gt;反省&lt;/h2&gt;
+&lt;h2 id=&quot;反省&quot;&gt;反省&lt;/h2&gt;
 &lt;p&gt;最初から暗雲が立ち込めすぎてて前が見えないプロジェクトでしたが、とりあえずは意地でも実施し、将来への糧としようという実験でした。&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;勉強ツールのアプリ設計がダメすぎた。特に司法試験問題は、他の試験と比べてもかなり特殊だということを、途中まで認知していなかった。&lt;/li&gt;
-  &lt;li&gt;モニターを集めるのが大変すぎる&lt;sup id=&quot;fnref:4:1&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;。&lt;/li&gt;
+  &lt;li&gt;モニターを集めるのが大変すぎる&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;この路線自体はそんなに悪くはない気がしていますが、うまくいくかは試験や問題などにかなり依存すると思うので、うまいこと変化球を投げていかないといけないだろうと思っています。&lt;/p&gt;
+&lt;p&gt;この路線自体はそんなに悪くはない気がしていますが、うまくいくかは対象とする試験や具体的な問題にかなり依存すると思うので、うまいこと変化球を投げていかないといけないだろうと思っています。&lt;/p&gt;
 
-&lt;h2 id=&quot;section-5&quot;&gt;実施・解析手法&lt;/h2&gt;
+&lt;h2 id=&quot;実施解析手法&quot;&gt;実施・解析手法&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;Data collection：ShikiSci_gray&lt;/li&gt;
   &lt;li&gt;Framework：Stochastic blockmodelによるベイズ推論&lt;/li&gt;
   &lt;li&gt;Algorithm: nonparametric MCMC [Newman&amp;amp;Reinert, Phys.Rev.Lett. (2016)]&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;section-6&quot;&gt;その他&lt;/h2&gt;
+&lt;h2 id=&quot;その他&quot;&gt;その他&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;本研究は、JSPS科研費基盤研究(S) 17H06103の助成を受けたものです。&lt;/li&gt;
   &lt;li&gt;実験データは、NEDOプロジェクトの成果物（ShikiSci_gray）を、楽天リサーチのモニターの方々に使用していただくことで、収集したものです。&lt;/li&gt;
@@ -93,13 +223,19 @@
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;司法試験を受けたり勉強したことはないので、間違っていたら優しく指摘してください。 &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;司法試験を受けたり勉強したことはないので、間違っていたら優しく指摘してください。 &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;どこかの時点で、専門家に“正しい”判断をしてもらえばOK。 &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;どこかの時点で、専門家に“正しい”判断をしてもらえばOK。 &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;なので、”グループごとに色付けしたもの”とは違います。とはいっても、２分割もしくは分割なしの場合だけしか出てこないので、実質グループごとに色付けしたのと、あまり変わりません。 &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:4&quot;&gt;
-      &lt;p&gt;なので、”グループごとに色付けしたもの”とは違います。とはいっても、２分割もしくは分割なしの場合だけしか出てこないので、実質グループごとに色付けしたのと、あまり変わりません。 &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:4:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;このグラフを見て「なんかおかしくない？」と思った方がいるかもしれません。それは、内緒の操作が入っているからです。今のところ内緒です。 &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:5&quot;&gt;
+      &lt;p&gt;楽天リサーチさんが30人集めてくれたのが、むしろ奇跡。他５社くらいには早々に断られました。司法試験の勉強している人の数はそれなりに多いはずなので、需要はあると信じたい。。 &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
@@ -117,18 +253,18 @@
     
       <item>
         <title>企業家タイプ診断</title>
-        <description>&lt;h2 id=&quot;section&quot;&gt;キミはどの企業家と似ているかな？&lt;/h2&gt;
+        <description>&lt;h2 id=&quot;キミはどの企業家と似ているかな&quot;&gt;キミはどの企業家と似ているかな？&lt;/h2&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;section-1&quot;&gt;概要&amp;amp;背景&lt;/h2&gt;
+&lt;h2 id=&quot;概要背景&quot;&gt;概要&amp;amp;背景&lt;/h2&gt;
 &lt;p&gt;クイズ形式の診断アプリです。&lt;/p&gt;
 
 &lt;p&gt;2017年11月16日から2018年1月31日まで、大阪企業家ミュージアム（大阪商工会議所地下１階）にて期間限定で稼働していました。
 このミュージアムでは、江崎グリコの江崎利一、ダイワハウスの石橋伸夫など、100人を超えるの日本の企業家の生涯や貢献を展示しています。
 来場者は、いくつかのクイズに答えると、&lt;strong&gt;自分がどんな企業家と似た性格なのか&lt;/strong&gt;がわかります。&lt;/p&gt;
 
-&lt;h4 id=&quot;section-2&quot;&gt;プレス&lt;/h4&gt;
+&lt;h4 id=&quot;プレス&quot;&gt;プレス&lt;/h4&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.nikkei.com/article/DGXLRSP463416_V11C17A1000000/&quot;&gt;日本経済新聞&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://tech.nikkeibp.co.jp/it/atclact/activer/nkpr/RSP463416_15112017/&quot;&gt;日経 × TECH Active&lt;/a&gt;&lt;/li&gt;
@@ -136,10 +272,10 @@
   &lt;li&gt;日刊工業新聞（2017年12月20日）&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;section-3&quot;&gt;遊び方&lt;/h2&gt;
+&lt;h2 id=&quot;遊び方&quot;&gt;遊び方&lt;/h2&gt;
 &lt;p&gt;遊び方はすごく簡単。&lt;/p&gt;
 
-&lt;h3 id=&quot;section-4&quot;&gt;1. クイズに答える&lt;/h3&gt;
+&lt;h3 id=&quot;1-クイズに答える&quot;&gt;1. クイズに答える&lt;/h3&gt;
 &lt;p&gt;３０程度のクイズの中から、ランダムにいくつか問題が出されるので、答えていきます。
 （本当は自分自身の回答も書き込めるのですが！&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;）&lt;/p&gt;
 
@@ -156,7 +292,7 @@
   &lt;li&gt;「起業を目指しているキミ、経験を積むため海外で働きたいと思っている。しかし両親は反対している。キミならどうする？」&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;section-5&quot;&gt;2. 診断結果が出る&lt;/h3&gt;
+&lt;h3 id=&quot;2-診断結果が出る&quot;&gt;2. 診断結果が出る&lt;/h3&gt;
 &lt;p&gt;答えて、「診断」ボタンを押すと、、&lt;/p&gt;
 
 &lt;p&gt;（例）&lt;/p&gt;
@@ -165,7 +301,7 @@
 
 &lt;p&gt;こんなかんじです。おわり。&lt;/p&gt;
 
-&lt;h2 id=&quot;section-6&quot;&gt;どんな企業家が出てくるのか&lt;/h2&gt;
+&lt;h2 id=&quot;どんな企業家が出てくるのか&quot;&gt;どんな企業家が出てくるのか&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/KigyokaMuseum/Ezaki.png&quot; alt=&quot;founder1&quot; /&gt;
 &lt;img src=&quot;/images/KigyokaMuseum/Ishibashi.png&quot; alt=&quot;founder2&quot; /&gt;
@@ -196,7 +332,7 @@
 
 &lt;p&gt;です。&lt;/p&gt;
 
-&lt;h2 id=&quot;section-7&quot;&gt;どういう”診断”なのか&lt;/h2&gt;
+&lt;h2 id=&quot;どういう診断なのか&quot;&gt;どういう”診断”なのか&lt;/h2&gt;
 &lt;p&gt;人の性格の分類をし、それを診断としています。
 通常、診断とか占いとかは、あらかじめ決められた（”あみだくじ”的な）ルールがあって、その上をユーザーが辿るという仕組みです。
 ここでも、とりあえずは何人かの企業家の伝記に基づいて、ベースとなる診断ルールが構築されます。
@@ -215,39 +351,39 @@
 &lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;section-8&quot;&gt;[付録] アプリの中身など、細かいこと&lt;/h2&gt;
+&lt;h2 id=&quot;付録-アプリの中身など細かいこと&quot;&gt;[付録] アプリの中身など、細かいこと&lt;/h2&gt;
 
-&lt;h3 id=&quot;section-9&quot;&gt;診断方法（計算）&lt;/h3&gt;
+&lt;h3 id=&quot;診断方法計算&quot;&gt;診断方法（計算）&lt;/h3&gt;
 &lt;p&gt;各クイズの回答には、それが”どのタイプに属している回答か”が確率分布として付与されています。
 来場者がいくつかのクイズに答えたら、それらに付随している確率分布のもとで各タイプの事後確率を（近似的に）計算し、最も確率が高いタイプを、診断結果として返します&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
 
-&lt;h3 id=&quot;section-10&quot;&gt;元データ&lt;/h3&gt;
+&lt;h3 id=&quot;元データ&quot;&gt;元データ&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;企業家ミュージアムから刊行されている、８人の企業家に関する伝記漫画 &lt;sup id=&quot;fnref:4:1&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;があります。そこに載っている「こんなとき、キミならどうする？」というクイズをベースにしています。漫画には、実際にその企業家がとった選択が載っています（これを以下”資料データ”と呼びます）。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;section-11&quot;&gt;各回答に付与される確率分布&lt;/h3&gt;
+&lt;h3 id=&quot;各回答に付与される確率分布&quot;&gt;各回答に付与される確率分布&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;最初のうちは、資料データを基に、尤もらしい企業家タイプが出てくるようにします。この資料データは、いわゆる教師データではなく、企業家タイプというカテゴリーを与えるための（事前）データです。&lt;/li&gt;
   &lt;li&gt;ある程度来場者からのデータが集まったら、来場者からのデータと資料データを合わせたデータセットでクラスタリング（教師なし学習）を行い、各クイズの回答に付随する、タイプの確率分布を更新します。
 このようにして、来場者の選択傾向を反映した「人の性格」分類（診断）がなされます。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;section-12&quot;&gt;実証実験としての要素&lt;/h3&gt;
+&lt;h3 id=&quot;実証実験としての要素&quot;&gt;実証実験としての要素&lt;/h3&gt;
 &lt;p&gt;今回、エッジに３(+1)種類のラベルがついた、しかも検出限界ぎりぎりくらいかもしれないグラフの分割を行いました。
 そんな多種ラベルのグラフ分割が、実データでまともにできるのか（正直できないかもと思っていました）というところが、技術的な検証ポイントでした。
 また、現バージョンも十分単純ですが、企画当初はもっと愚直なアイディアで、それに比べると地味にいくつか実装上の工夫が込められています。&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;section-13&quot;&gt;実施・解析手法&lt;/h2&gt;
+&lt;h2 id=&quot;実施解析手法&quot;&gt;実施・解析手法&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;Data collection：ShikiSci (yellow)&lt;/li&gt;
   &lt;li&gt;Framework：Labeled stochastic blockmodelによるベイズ推論&lt;/li&gt;
   &lt;li&gt;Algorithm: EM algorithm + Belief Propagation + Cross-validation&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;section-14&quot;&gt;その他&lt;/h2&gt;
+&lt;h2 id=&quot;その他&quot;&gt;その他&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;このプロジェクトは、産業技術総合研究所 AIリビングラボコンソーシアムでの実証実験として、大阪商工会議所の協力を得て実施されました。&lt;/li&gt;
 &lt;/ul&gt;
@@ -256,16 +392,16 @@
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;デジタルサイネージではタイピングがしにくいというのと、いたずら監視が大変だという理由から、今回はこの機能はoffに。 &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;デジタルサイネージではタイピングがしにくいというのと、いたずら監視が大変だという理由から、今回はこの機能はoffに。 &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:4&quot;&gt;
-      &lt;p&gt;出典：漫画「企業家の人生に学ぶ」シリーズ &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:4:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;出典：漫画「企業家の人生に学ぶ」シリーズ &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:4:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:5&quot;&gt;
-      &lt;p&gt;企業イメージに関わるので、ここでズバッと書いてしまうわけにはいかないのです。 &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;企業イメージに関わるので、ここでズバッと書いてしまうわけにはいかないのです。 &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;この操作は一瞬です。 &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;この操作は一瞬です。 &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
@@ -283,19 +419,19 @@
     
       <item>
         <title>保健室・健康診断アンケート</title>
-        <description>&lt;h2 id=&quot;section&quot;&gt;保健室/健康診断の利用状況&lt;/h2&gt;
+        <description>&lt;h2 id=&quot;保健室健康診断の利用状況&quot;&gt;保健室/健康診断の利用状況&lt;/h2&gt;
 
 &lt;p&gt;保健管理施設の利用と健康診断受診に関するアンケートです。
 大学の保健管理施設と健康診断について、自由な意見を大学の学生さんたちから募集し、その傾向を調査しました。
 今後の保健管理施設運営や健康診断の実施に役立てればと考えています。&lt;/p&gt;
 
-&lt;h2 id=&quot;section-1&quot;&gt;結果&lt;/h2&gt;
-&lt;p&gt;### Q1. 基本情報&lt;/p&gt;
+&lt;h2 id=&quot;結果&quot;&gt;結果&lt;/h2&gt;
+&lt;h3 id=&quot;q1-基本情報&quot;&gt;Q1. 基本情報&lt;/h3&gt;
 &lt;div id=&quot;donutchart_gender&quot; style=&quot;width: 450px; height: 250px;&quot;&gt;&lt;/div&gt;
 &lt;div id=&quot;dual_x_div_department&quot; style=&quot;width: 250px; height: 250px;&quot;&gt;&lt;/div&gt;
 &lt;div id=&quot;dual_x_div_grade&quot; style=&quot;width: 250px; height: 250px;&quot;&gt;&lt;/div&gt;
 
-&lt;h3 id=&quot;q2-&quot;&gt;Q2. 保健管理施設について&lt;/h3&gt;
+&lt;h3 id=&quot;q2-保健管理施設について&quot;&gt;Q2. 保健管理施設について&lt;/h3&gt;
 &lt;div id=&quot;donutchart_1&quot; style=&quot;width: 450px; height: 250px;&quot;&gt;&lt;/div&gt;
 &lt;dl&gt;
   &lt;dt&gt;Q2-2. 「はい」と答えた方は、差し支えなければ、その内容を教えてください。&lt;/dt&gt;
@@ -315,7 +451,7 @@
 
 &lt;p&gt;&lt;img src=&quot;/images/ChibaMedicalCheckup/Q2-3_display.png&quot; alt=&quot;Q2-3&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;q3-&quot;&gt;Q3. 健康診断について&lt;/h3&gt;
+&lt;h3 id=&quot;q3-健康診断について&quot;&gt;Q3. 健康診断について&lt;/h3&gt;
 &lt;div id=&quot;donutchart_2&quot; style=&quot;width: 450px; height: 250px;&quot;&gt;&lt;/div&gt;
 &lt;dl&gt;
   &lt;dt&gt;Q3-2. 健康診断を受診した・しない理由を書いてください。&lt;/dt&gt;
@@ -333,10 +469,10 @@
 
 &lt;p&gt;&lt;img src=&quot;/images/ChibaMedicalCheckup/Q3-3_display.png&quot; alt=&quot;Q3-3&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;section-2&quot;&gt;今後の予定&lt;/h2&gt;
+&lt;h2 id=&quot;今後の予定&quot;&gt;今後の予定&lt;/h2&gt;
 &lt;p&gt;本アンケート調査は、今後も継続していく予定です。関係者のみなさま、どうぞよろしくお願いします。&lt;/p&gt;
 
-&lt;h2 id=&quot;section-3&quot;&gt;実施・解析手法&lt;/h2&gt;
+&lt;h2 id=&quot;実施解析手法&quot;&gt;実施・解析手法&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;Data collection：投票クラスタリング (v0.3)&lt;/li&gt;
   &lt;li&gt;Framework：Stochastic blockmodelによるベイズ推論&lt;/li&gt;
@@ -346,7 +482,7 @@
 &lt;p&gt;&lt;img src=&quot;/images/ChibaMedicalCheckup/Q2-3-1.png&quot; alt=&quot;voteclustering-v0.3&quot; /&gt;
 &lt;img src=&quot;/images/ChibaMedicalCheckup/Q3-1.png&quot; alt=&quot;voteclustering-v0.3&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;section-4&quot;&gt;その他&lt;/h2&gt;
+&lt;h2 id=&quot;その他&quot;&gt;その他&lt;/h2&gt;
 &lt;p&gt;本調査は、国立大学法人千葉大学総合安全衛生管理機構及び千葉大学フロンティア医工学センター研究倫理審査委員会の承認（承認番号29-09）を得て行われ
 ました。&lt;/p&gt;
 </description>
@@ -359,22 +495,24 @@
     
       <item>
         <title>アーティフィシャルフラワー展</title>
-        <description>&lt;h2 id=&quot;section&quot;&gt;作品展に来場したお客さんの感想は？&lt;/h2&gt;
+        <description>&lt;h2 id=&quot;作品展に来場したお客さんの感想は&quot;&gt;作品展に来場したお客さんの感想は？&lt;/h2&gt;
 
 &lt;p&gt;coco de class株式会社さんが、作品展で実施されたアンケートを集計しました。&lt;/p&gt;
 
 &lt;p&gt;作品展：「旅するアーティフィシャルフラワー作品展　小さな花美術館安曇野の旅」&lt;/p&gt;
 
 &lt;p&gt;作品に関する参加者の方々の感想が、選択式回答の他に、自由記述として収集されています。
-結果としては、
-- ６種類の回答傾向が抽出され、それぞれ”ブルー”、”グリーン”、”ピンク”、”淡い・ナチュラル”、”色合い”、”素敵”をキーワードとするものが得られました。
-- 圧倒的に、色の要素に反応された方が多いことがわかります。
-- “ピンク”と抽象的な表現（”淡い・ナチュラル”、”色合い”、”素敵”）は比較的近い関係にあることがわかります。
-- 一方、”ブルー”、”グリーン”は（色以外の具体的な表現と結び付けられているせいか）、はっきりとした傾向として見えます。&lt;/p&gt;
+結果としては、&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;６種類の回答傾向が抽出され、それぞれ”ブルー”、”グリーン”、”ピンク”、”淡い・ナチュラル”、”色合い”、”素敵”をキーワードとするものが得られました。&lt;/li&gt;
+  &lt;li&gt;圧倒的に、色の要素に反応された方が多いことがわかります。&lt;/li&gt;
+  &lt;li&gt;“ピンク”と抽象的な表現（”淡い・ナチュラル”、”色合い”、”素敵”）は比較的近い関係にあることがわかります。&lt;/li&gt;
+  &lt;li&gt;一方、”ブルー”、”グリーン”は（色以外の具体的な表現と結び付けられているせいか）、はっきりとした傾向として見えます。&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://cocodeclass-afs.com/topics/17101101/index.html&quot;&gt;coco de classさんのHP&lt;/a&gt;では、ここでの集計結果の他に、選択式アンケートの集計結果&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;も掲載されています。&lt;/p&gt;
 
-&lt;h2 id=&quot;section-1&quot;&gt;結果の可視化&lt;/h2&gt;
+&lt;h2 id=&quot;結果の可視化&quot;&gt;結果の可視化&lt;/h2&gt;
 &lt;p&gt;Alluvial diagram&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;によって、分類の数を増やしていったときの階層構造が見てとれます。&lt;/p&gt;
 
 &lt;p&gt;（横軸：分類数　縦軸：一つの束が、”同じ傾向”と判定された回答集合を示す）&lt;/p&gt;
@@ -395,7 +533,7 @@
 - 複数の集計者からの&quot;平均的な分類&quot;となり、より信頼性の高い結果が得られる。
 --&gt;
 
-&lt;h2 id=&quot;section-2&quot;&gt;実施・解析手法&lt;/h2&gt;
+&lt;h2 id=&quot;実施解析手法&quot;&gt;実施・解析手法&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;Data collection：投票クラスタリング (ext_v0.2)&lt;/li&gt;
   &lt;li&gt;Framework：Labeled stochastic blockmodelによるベイズ推論&lt;/li&gt;
@@ -416,10 +554,10 @@
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;選択式アンケートの部分は、山下和也氏（産総研）による、別のフレームワークでの集計です。 &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;選択式アンケートの部分は、山下和也氏（産総研）による、別のフレームワークでの集計です。 &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;Sankey diagramに色の濃さの自由度を加えたものです。色の濃い部分が、はっきりと傾向を持っている（その回答の分類に関する周辺事後確率が、特定の分類にピークを持っている）と判定された回答群です。 &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;Sankey diagramに色の濃さの自由度を加えたものです。色の濃い部分が、はっきりと傾向を持っている（その回答の分類に関する周辺事後確率が、特定の分類にピークを持っている）と判定された回答群です。 &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
@@ -435,7 +573,7 @@
     
       <item>
         <title>顔顔衰弱@ニコニコ超会議2017</title>
-        <description>&lt;h2 id=&quot;section&quot;&gt;人の顔は、何タイプあるでしょうか？&lt;/h2&gt;
+        <description>&lt;h2 id=&quot;人の顔は何タイプあるでしょうか&quot;&gt;人の顔は、何タイプあるでしょうか？&lt;/h2&gt;
 
 &lt;p&gt;画像を処理して人間の顔識別・分類を行う技術は古くからあります。
 そのようなタスクでは、ピクセル情報から、画像の物理的な特徴を抽出することよって識別を行います。&lt;/p&gt;
@@ -446,7 +584,7 @@
 何かしらの（物理的な特徴から）類似性を無意識的に感じ取っているかもしれません。
 それらを確かめるには、実際に人々の主観的なデータを集める必要があります。&lt;/p&gt;
 
-&lt;h2 id=&quot;section-1&quot;&gt;実験してみました&lt;/h2&gt;
+&lt;h2 id=&quot;実験してみました&quot;&gt;実験してみました&lt;/h2&gt;
 &lt;p&gt;(詳しくは、こちらから：
 &lt;a href=&quot;http://img.voteclustering.org/&quot;&gt;http://img.voteclustering.org/&lt;/a&gt;)&lt;/p&gt;
 
@@ -466,8 +604,8 @@
 &lt;p&gt;&lt;img src=&quot;/images/HumanFace/KaoKao_procedure1.png&quot; alt=&quot;KaoKao-procedure1&quot; /&gt; 
 &lt;img src=&quot;/images/HumanFace/KaoKao_procedure2.png&quot; alt=&quot;KaoKao-procedure2&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;section-2&quot;&gt;結果&lt;/h2&gt;
-&lt;p&gt;### 3分類&lt;/p&gt;
+&lt;h2 id=&quot;結果&quot;&gt;結果&lt;/h2&gt;
+&lt;h3 id=&quot;3分類&quot;&gt;3分類&lt;/h3&gt;
 
 &lt;div id=&quot;HumanFace_tripartition&quot; style=&quot;width: 450px; height: 250px;&quot;&gt;&lt;/div&gt;
 &lt;p&gt;&lt;img src=&quot;/images/HumanFace/FacePartition.png&quot; alt=&quot;FacePartition&quot; /&gt;&lt;/p&gt;
@@ -481,18 +619,18 @@
 
 &lt;p&gt;もっと大規模な実験がしてみたいところです。&lt;/p&gt;
 
-&lt;h2 id=&quot;section-3&quot;&gt;様子&lt;/h2&gt;
+&lt;h2 id=&quot;様子&quot;&gt;様子&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&quot;/images/HumanFace/KaoKao_niconico-toukaigi2017.jpeg&quot; alt=&quot;niconico-toukaigi-2017&quot; /&gt; 
 &lt;img src=&quot;/images/HumanFace/KaoKao_niconico-choukaigi2017.jpeg&quot; alt=&quot;niconico-choukaigi-2017&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;section-4&quot;&gt;実施・解析手法&lt;/h2&gt;
+&lt;h2 id=&quot;実施解析手法&quot;&gt;実施・解析手法&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;Data collection：神経衰弱カードゲーム “顔顔衰弱” (ShikiSci_Cyan)&lt;/li&gt;
   &lt;li&gt;Framework：Stochastic blockmodelによるベイズ推論&lt;/li&gt;
   &lt;li&gt;Algorithm: EM algorithm + Belief Propagation + Cross-validation (&lt;a href=&quot;https://github.com/tatsuro-kawamoto/graphBIX&quot; title=&quot;sbmBIX&quot;&gt;graphBIX&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;section-5&quot;&gt;その他&lt;/h2&gt;
+&lt;h2 id=&quot;その他&quot;&gt;その他&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;このプロジェクトは、産業技術総合研究所 NEDOプロジェクトの人間工学実験として実施されました。&lt;/li&gt;
   &lt;li&gt;本実験は、産業技術総合研究所 確率モデリングチームの近藤那央さん、大前智嵩くんと共に実施しました。&lt;/li&gt;
@@ -502,22 +640,22 @@
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;モデルさんの写真は、利用規約の関係上、ここには載せられません。 &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:3:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;モデルさんの写真は、利用規約の関係上、ここには載せられません。 &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:3:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:4&quot;&gt;
-      &lt;p&gt;Pixivのイラストは、すべて著作者からの承認を得て使用・掲載しています。 &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;Pixivのイラストは、すべて著作者からの承認を得て使用・掲載しています。 &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;ある時点までで収集された全データを使って、すべての顔を分類。同じグループに属しているペアは、みんなが”似ている”と思っていると解釈します。 &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;ある時点までで収集された全データを使って、すべての顔を分類。同じグループに属しているペアは、みんなが”似ている”と思っていると解釈します。 &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;実際は、複数人でプレイ。順番で誰か一人がペアを選択し、周りで見ている人には、選ばれたペアが”似ている”と思うか思わないかを賭けてもらいます。 &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;実際は、複数人でプレイ。順番で誰か一人がペアを選択し、周りで見ている人には、選ばれたペアが”似ている”と思うか思わないかを賭けてもらいます。 &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:5&quot;&gt;
-      &lt;p&gt;もちろん、用意したデータセットに偏りがあるから、という可能性は十分にあります。 &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;もちろん、用意したデータセットに偏りがあるから、という可能性は十分にあります。 &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:6&quot;&gt;
-      &lt;p&gt;図中の点線が、いくつかの手法で選ばれる分類数を表しています。”spectral”はnon-backtracking行列の孤立固有値数から見積もった値（3分類）、”dc-SBM”と”SBM”は、それぞれ次数補正あり/なしのstochastic blockmodelの予測誤差の交差検定から選ばれる値（4分類と6分類）。 &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;図中の点線が、いくつかの手法で選ばれる分類数を表しています。”spectral”はnon-backtracking行列の孤立固有値数から見積もった値（3分類）、”dc-SBM”と”SBM”は、それぞれ次数補正あり/なしのstochastic blockmodelの予測誤差の交差検定から選ばれる値（4分類と6分類）。 &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
@@ -533,7 +671,7 @@
     
       <item>
         <title>大学教育アンケート</title>
-        <description>&lt;h2 id=&quot;section&quot;&gt;大学で学んで、よかったことは？&lt;/h2&gt;
+        <description>&lt;h2 id=&quot;大学で学んでよかったことは&quot;&gt;大学で学んで、よかったことは？&lt;/h2&gt;
 
 &lt;p&gt;ある大学の教育学部の卒業生アンケートです。&lt;/p&gt;
 
@@ -544,7 +682,7 @@
   &lt;li&gt;我々のシステム（投票クラスタリング）のパフォーマンスを一番真面目に検証した例です。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;section-1&quot;&gt;その他&lt;/h2&gt;
+&lt;h2 id=&quot;その他&quot;&gt;その他&lt;/h2&gt;
 &lt;p&gt;このアンケートは、ある国立大学の公式調査として実施されました。&lt;/p&gt;
 </description>
         <pubDate>Mon, 26 Dec 2016 00:00:00 +0900</pubDate>
@@ -560,9 +698,9 @@
     
       <item>
         <title>2016年アメリカ大統領選挙</title>
-        <description>&lt;h2 id=&quot;section&quot;&gt;テレビ討論会の会場（ネバダ大学ラスベガス校）で突撃街頭アンケート&lt;/h2&gt;
+        <description>&lt;h2 id=&quot;テレビ討論会の会場ネバダ大学ラスベガス校で突撃街頭アンケート&quot;&gt;テレビ討論会の会場（ネバダ大学ラスベガス校）で突撃街頭アンケート&lt;/h2&gt;
 
-&lt;h2 id=&quot;section-1&quot;&gt;概要&lt;/h2&gt;
+&lt;h2 id=&quot;概要&quot;&gt;概要&lt;/h2&gt;
 &lt;p&gt;2016年10月19日、アメリカ大統領選挙のテレビ討論会の最終ラウンドがラスベガスのネバダ大学で開催されました。&lt;/p&gt;
 
 &lt;p&gt;前日の18日と当日の19日、キャンパス内を歩いている人々、候補者を応援している人々に話しかけ、街頭アンケートに答えてもらいました。&lt;/p&gt;
@@ -573,22 +711,22 @@
 ネバダ大学（NVLV）で得られた回答、ウェブで得られた回答、初期入力の割合は上図のとおりです。
 これらの中には、アメリカ国民以外も含まれています。 --&gt;
 
-&lt;h2 id=&quot;section-2&quot;&gt;結果&lt;/h2&gt;
+&lt;h2 id=&quot;結果&quot;&gt;結果&lt;/h2&gt;
 &lt;p&gt;論文準備中のため、まだあまり書けませんが、
 オープンにしている結果はこちらへ：
 &lt;a href=&quot;http://voteclustering.org/&quot; title=&quot;voteclusteringWebSite&quot;&gt;voteclustering.org&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;section-3&quot;&gt;様子&lt;/h2&gt;
+&lt;h2 id=&quot;様子&quot;&gt;様子&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&quot;/images/USPresidentialElection/Airport_Lasvegas.jpg&quot; alt=&quot;airport&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;section-4&quot;&gt;実施・解析手法&lt;/h2&gt;
+&lt;h2 id=&quot;実施解析手法&quot;&gt;実施・解析手法&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;Data collection：投票クラスタリング (v0.2)&lt;/li&gt;
   &lt;li&gt;Framework：Labeled stochastic blockmodelによるベイズ推論&lt;/li&gt;
   &lt;li&gt;Algorithm: EM algorithm + Belief Propagation + Cross-validation (&lt;a href=&quot;https://github.com/tatsuro-kawamoto/graphBIX&quot; title=&quot;labeledBIX&quot;&gt;graphBIX&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;section-5&quot;&gt;その他&lt;/h2&gt;
+&lt;h2 id=&quot;その他&quot;&gt;その他&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;このデータは、本サイトの運営者（川本）が、有給休暇をとって現地で収集しました。交通費、その他経費諸々は自費です。&lt;/li&gt;
 &lt;/ul&gt;
